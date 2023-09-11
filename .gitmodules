@@ -1,6 +1,7 @@
 [submodule "rai"]
 	path = rai
-	url = https://github.com/MarcToussaint/rai.git
+	url = https://github.com/fdamken/rai.git
+	branch = fabian
 [submodule "rai-robotModels"]
 	path = rai-robotModels
 	url = https://github.com/MarcToussaint/rai-robotModels.git
